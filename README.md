@@ -1,1 +1,1 @@
-Working @ [texastorque](https://www.texastorque.org/) as lead programmer & current high school senior.
+Working @[texastorque](https://github.com/TexasTorque/) as lead programmer & current high school senior. Read more about my projects on (davidadams.dev)[https://davidadams.dev/]
